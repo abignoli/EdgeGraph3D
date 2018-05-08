@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hpcgroup/!svn/ver/6396/mahantesh/grappolo-05-2014
+END
+RngStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/RngStream.cpp
+END
+convertFileToEdgeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hpcgroup/!svn/ver/6396/mahantesh/grappolo-05-2014/convertFileToEdgeList.cpp
+END
+writeGraphDimacsFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/writeGraphDimacsFormat.cpp
+END
+utilityParseInputParameters.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/utilityParseInputParameters.hpp
+END
+convertSnapFileToBinary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hpcgroup/!svn/ver/6266/mahantesh/grappolo-05-2014/convertSnapFileToBinary.cpp
+END
+utilityGraphPartitioner.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/utilityGraphPartitioner.h
+END
+parseInputParameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hpcgroup/!svn/ver/6266/mahantesh/grappolo-05-2014/parseInputParameters.cpp
+END
+driverForColoringExperiments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/driverForColoringExperiments.cpp
+END
+west1505.gr
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/west1505.gr
+END
+karate.graph
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/karate.graph
+END
+driverForPartitioningWithMetis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/driverForPartitioningWithMetis.cpp
+END
+coloringDistanceOne.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/coloringDistanceOne.cpp
+END
+utilityFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/utilityFunctions.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hpcgroup/!svn/ver/6396/mahantesh/grappolo-05-2014/Makefile
+END
+louvainMultiPhaseRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hpcgroup/!svn/ver/6396/mahantesh/grappolo-05-2014/louvainMultiPhaseRun.cpp
+END
+vertexFollowing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/vertexFollowing.cpp
+END
+parallelLouvainMethodEager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/parallelLouvainMethodEager.cpp
+END
+utilityClusteringFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/utilityClusteringFunctions.h
+END
+driverForGraphClusteringBigMem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hpcgroup/!svn/ver/6236/mahantesh/grappolo-05-2014/driverForGraphClusteringBigMem.cpp
+END
+utilityGraphPartitioner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/utilityGraphPartitioner.cpp
+END
+RngStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/RngStream.h
+END
+driverProcessPowerGridNetworks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/driverProcessPowerGridNetworks.cpp
+END
+parseInputFiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hpcgroup/!svn/ver/6396/mahantesh/grappolo-05-2014/parseInputFiles.cpp
+END
+generateRMAT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/generateRMAT.cpp
+END
+buildNextPhase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/buildNextPhase.cpp
+END
+RunWithValgrind.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/RunWithValgrind.sh
+END
+parallelLouvainWithColoring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/parallelLouvainWithColoring.cpp
+END
+driverForGraphClustering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hpcgroup/!svn/ver/6396/mahantesh/grappolo-05-2014/driverForGraphClustering.cpp
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/defs.h
+END
+convertFileToBinary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hpcgroup/!svn/ver/6396/mahantesh/grappolo-05-2014/convertFileToBinary.cpp
+END
+generateRGG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/generateRGG.cpp
+END
+utilityStringTokenizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/utilityStringTokenizer.hpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hpcgroup/!svn/ver/6221/mahantesh/grappolo-05-2014/README.txt
+END
+parallelLouvainMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/parallelLouvainMethod.cpp
+END
+utilityClusteringFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hpcgroup/!svn/ver/6285/mahantesh/grappolo-05-2014/utilityClusteringFunctions.cpp
+END
