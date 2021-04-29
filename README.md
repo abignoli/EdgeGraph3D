@@ -141,10 +141,3 @@ Acknowledgements
 ================
 
 EdgeGraph3D has been designed and developed by Andrea Bignoli at Politecnico di Milano (Italy), with the supervision and support of PhD Andrea Romanoni and Prof. Matteo Matteucci. We recommend the reconstruction algorithm provided by Andrea Romanoni, https://github.com/andresax/Manifold-Reconstructor, to produce 3D models from the enhanced point clouds generated through EdgeGraph3D.
-
-Contact
-=======
-
-Andrea Bignoli
-mail: andrea.bignoli [at] gmail.com
-
